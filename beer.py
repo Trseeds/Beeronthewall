@@ -27,7 +27,7 @@ def count():
         print("Buy some more,")
         time.sleep(1)
         print("...")
-        time.sleep(4)
+        time.sleep(5)
         print(f"{origbeernum} bottles of beer on the wall!")
         (beernum) = (origbeernum)
         time.sleep(1)
